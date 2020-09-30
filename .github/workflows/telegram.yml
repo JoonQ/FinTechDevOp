@@ -13,4 +13,5 @@ jobs:
         to: ${{ secrets.TELEGRAM_TO }}
         token: ${{ secrets.TELEGRAM_TOKEN }}
         message: Repository has just been updated. More info @ https://github.com/JoonQ/FinTechDevOp/actions
-        document: images/GithubICON.png
+        photo: images/GithubICON.png
+        socks5: https://github.com/JoonQ/FinTechDevOp/actions
